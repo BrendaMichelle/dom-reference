@@ -1,5 +1,5 @@
 # DOM Reference
-*stolen lovingly from [Ian Hollander](https://github.com/ihollander)
+*stolen lovingly from [Ian Hollander](https://github.com/ihollander)*
 
 <!-- TOC depthTo:3 -->
 
